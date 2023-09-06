@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Juliano 🤞
 ![Juliano GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoLopesM&show_icons=true&theme=dracula)
-
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianoLopesM&theme=react&line_height=40&hide=css"/> </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoLopesM&layout=compact)
 ### Tecnologias que estou aprendendo no momento (julho 2023).
 <div style="display: inline_block"><br/>
