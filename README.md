@@ -53,6 +53,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JulianoLopesM/JulianoLopesM/output/snake.svg" alt="Snake animation" />
 
-###
